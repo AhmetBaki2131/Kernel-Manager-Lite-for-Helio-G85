@@ -2,6 +2,8 @@
 ![Stars](https://img.shields.io/github/stars/AhmetBaki2131/Kernel-Manager-Lite-for-Helio-G85)
 ![Issues](https://img.shields.io/github/issues/AhmetBaki2131/Kernel-Manager-Lite-for-Helio-G85)
 
+> [!WARNING]
+> **This application is currently designed and tested only for MediaTek Helio G85 devices. Compatibility with other chipsets is not guaranteed.**
 # Kernel Manager Lite
 
 An AI-powered, modern, open-source Kernel Manager for rooted Android devices.

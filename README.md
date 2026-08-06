@@ -23,6 +23,14 @@ Kernel Manager Lite gives you full control over your device's kernel with a clea
 * 🌙 Light & Dark theme
 * 🌍 Multi-language support (Work in Progress)
 
+## 📸 Screenshots
+
+<img width="720" height="1600" alt="4" src="https://github.com/user-attachments/assets/4fc299ec-23a2-4f6d-ab49-1e664eb3cf85" />
+<img width="720" height="1600" alt="3" src="https://github.com/user-attachments/assets/8ce318f8-4f20-436e-91d4-9aba0e425a1b" />
+<img width="720" height="1600" alt="2" src="https://github.com/user-attachments/assets/08e3e927-8eed-47b0-ab27-da83bf5d8229" />
+<img width="720" height="1600" alt="1" src="https://github.com/user-attachments/assets/5f16b5a6-a769-4cef-a50d-4239b8cda39e" />
+
+
 ## 📱 Requirements
 
 * Root access (Magisk or compatible)
@@ -53,4 +61,4 @@ Contributions, bug reports, feature requests, and pull requests are welcome.
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+MIT License

@@ -1,3 +1,8 @@
+![License](https://img.shields.io/github/license/AhmetBaki2131/Kernel-Manager-Lite-for-Helio-G85)
+![Release](https://img.shields.io/github/v/release/AhmetBaki2131/Kernel-Manager-Lite-for-Helio-G85)
+![Stars](https://img.shields.io/github/stars/AhmetBaki2131/Kernel-Manager-Lite-for-Helio-G85)
+![Issues](https://img.shields.io/github/issues/AhmetBaki2131/Kernel-Manager-Lite-for-Helio-G85)
+
 # Kernel Manager Lite
 
 An AI-powered, modern, open-source Kernel Manager for rooted Android devices.

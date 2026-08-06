@@ -1,0 +1,6 @@
+{
+  "name": "Kernel Manager Lite",
+  "description": "Root kernel management tool for CPU, GPU, ZRAM, I/O schedulers, and performance profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
